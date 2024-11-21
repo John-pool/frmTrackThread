@@ -1,0 +1,10 @@
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\bin\Debug\formTrackThread.exe.config
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\bin\Debug\formTrackThread.exe
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\bin\Debug\formTrackThread.pdb
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.csproj.AssemblyReference.cache
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.Form1.resources
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.Properties.Resources.resources
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.csproj.GenerateResource.cache
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.exe
+C:\Users\Kambal\source\repos\formTrackThread\formTrackThread\obj\Debug\formTrackThread.pdb
